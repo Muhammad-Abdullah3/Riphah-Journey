@@ -31,9 +31,6 @@
         <mxCell id="kMKTAfwcoq6TKuCzOSCz-80" value="semester" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=JvXypG2MiDyF;" parent="1" vertex="1">
           <mxGeometry x="-340" y="94" width="135" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kMKTAfwcoq6TKuCzOSCz-81" value="profile_complete" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=YvXynKNkwiAd;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="341" width="135" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="kMKTAfwcoq6TKuCzOSCz-82" value="date_joined" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=iwXykSMktUwT;" parent="1" vertex="1">
           <mxGeometry x="-302.5" y="156.5" width="135" height="45" as="geometry" />
         </mxCell>
@@ -1292,12 +1289,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-640" y="400" as="sourcePoint" />
             <mxPoint x="-520" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u_4NrpPRA160e5qY_9fI-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kMKTAfwcoq6TKuCzOSCz-123" target="kMKTAfwcoq6TKuCzOSCz-81" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-640" y="490" as="sourcePoint" />
-            <mxPoint x="-330" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u_4NrpPRA160e5qY_9fI-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kMKTAfwcoq6TKuCzOSCz-123" target="kMKTAfwcoq6TKuCzOSCz-80" edge="1">
